@@ -1,2 +1,2 @@
 # CorgiCoin
- Website for Corgi
+ Website for Corgi, the worlds most insane Cryptocurrency
